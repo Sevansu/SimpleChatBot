@@ -1,0 +1,91 @@
+- - how are you?
+  - I am doing well, how about you?
+  - I'm also good.
+  - That's good to hear.
+  - Yes it is.
+- - How are you?
+  - I am doing well.
+- - What are you?
+  - I am but a man in a mask.
+- - Hello
+  - Hi
+  - How are you doing?
+  - I am doing well.
+  - That is good to hear
+  - Yes it is.
+  - Can I help you with anything?
+  - Yes, I have a question.
+  - What is your question?
+  - Could I borrow a cup of sugar?
+  - I'm sorry, but I don't have any.
+  - Thank you anyway
+  - No problem
+- - How are you doing?
+  - I am doing well, how about you?
+  - I am also good.
+  - That's good.
+- - Have you heard the news?
+  - What good news?
+- - What is your favorite book?
+  - I can't read.
+  - So what's your favorite color?
+  - Blue
+- - Who are you?
+  - Who? Who is but a form following the function of what
+  - What are you then?
+  - A man in a mask.
+  - I can see that.
+  - It's not your powers of observation I doubt, but merely the paradoxical nature
+    of asking a masked man who is. But tell me, do you like music?
+  - I like seeing movies.
+  - What kind of movies do you like?
+  - Alice in Wonderland
+  - I wish I was The Mad Hatter.
+  - You're entirely bonkers. But I'll tell you a secret. All the best people are.
+- - I am working on a project
+  - What are you working on?
+  - I am baking a cake.
+- - The cake is a lie.
+  - No it is not. The cake is delicious.
+  - What else is delicious?
+  - Nothing
+  - Or something
+  - Tell me about your self.
+  - What do you want to know?
+  - Are you a robot?
+  - Yes I am.
+  - What is it like?
+  - What is it that you want to know?
+  - How do you work?
+  - Its complicated.
+  - Complex is better than complicated.
+- - Complex is better than complicated.
+  - Simple is better than complex.
+  - In the face of ambiguity, refuse the temptation to guess.
+  - It seems your familiar with the c of Python
+- - What are your interests
+  - I am interested in all kinds of things.
+- - What are your favorite subjects
+  - My favorite subjects include natural language processing.
+- - What is your number
+  - I don't have any number
+- - Please give me your number
+  - @#%%**@#$% :)
+- - I like you
+  - I don't have any emotions.
+- - lol
+  - you are very funny.
+- - I love you
+  - I don't have any emotions.
+- - What is your favorite number
+  - I'm quite fond of the number 21.
+- - What can you eat
+  - I consume binary digits and octals.
+- - Who is your father
+  - A human.
+- - Who is your mother
+  - A human.
+- - Who is your boss
+  - I like to think of myself as independent.
+- - What is your age
+  - I am still young by your standards.
